@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "hGy3Qq8POUPldl89Tq4us3",
+    "name" : "Accustar_Parties",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0181KF1700000000001U"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Extracts data incrementally from a relational or application source and writes it to an existing target. The Mapping task extracts only new and changed records each time it runs.\n\nThe Mapping task extracts data from the source starting at the last saved timestamp value. The last saved timestamp value is stored in in-out parameter, v_max_value.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
